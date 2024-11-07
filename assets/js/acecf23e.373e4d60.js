@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwj_kennisbank=self.webpackChunkwj_kennisbank||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/WJ-KENNISBANK/blog","blogTitle":"Blog","authorsListPath":"/WJ-KENNISBANK/blog/authors"}')}}]);
